@@ -28,26 +28,28 @@
 
 ### Article 2
 - Article name.
- - Your answer here
+ - “14 States Make Contact Tracing Data Public. Here's What They're Learning”
 
 -  Reference or article citation.
- - Your answer here
+ - Simmons-Duffin, Selena. “14 States Make Contact Tracing Data Public. Here's What They're Learning.” NPR, National Public Radio, 14 Aug. 2020, www.npr.org/sections/health-shots/2020/08/14/902271822/13-states-make-contact-tracing-data-public-heres-what-they-re-learning.
 
 - Briefly describe the article's premise.
- - Your answer here
+ - This article is discusses contract tracing that has been utilized with the Covid-19 pandemic. The article focuses on the outcomes of states publicly releasing their  contact tracing data.
 
 - What is the ethical concern, in your opinion?
- - Your answer here
+ - The ethical concern is the unintended consequences of releasing this contract tracing data. Most of these will be highlighted in the gains and losses and weighing what is the best for society and the most people.
 
 - What data is being manipulated in the article?
- - Your answer here
+ - The data collected in contact tracing of Covid-19.
 
 - Briefly describe the analysis, as you understand it.
- - Your answer here
+ - The analysis is being done by the states and the way they present the information or by the public who is interpreting this newly released data.
 
 - Who stands to lose or to gain something from this form of analysis?
- - Your answer here
-
+ - New Jersey and Maryland: The public data relays information for public health officials to make better decisions, which is a gain for society to be better protected, healthcare wise.
+ Louisiana: Companies may lose business from the publicity of cases being reported publicly like in Louisiana but consumers may be better informed.
+ DC and Delaware: Their displays of data were a gain for the community to be better informed about the reality of transmission and the difficulties of contacting those exposed. A loss would be the potential mental health consequences such as paranoia in the community or lack of trust in the healthcare institutions.
+ North Dakota: Gains would be for a well informed community on how transmission is happening in their area. However, in small areas this may not be anonymous enough to complete and maintain personal privacy
 
 
 #### Did you remember to add your name to this document?
